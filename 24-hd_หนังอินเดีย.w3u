@@ -1,0 +1,1241 @@
+{
+    "name": "หนังอินเดีย",
+    "day": "16-10-2024",
+    "info": "",
+    "image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+    "stations": [
+        {
+            "name": "CTRL (2024)",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/10/CTRL-2024.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/1c4949eff7d793a944099d1e/1c4949eff7d793a944099d1e.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Student of the Year นักเรียนดีเด่น (2012)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/10/Student-of-the-Year-2012.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/3ada957ffccaa3da26d0000c/3ada957ffccaa3da26d0000c.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Salaam Venky สวัสดีความสุข (2022)",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Salaam-Venky-สวัสดีความสุข-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/ea9c5ecb7e0f40b0e70ffb79/ea9c5ecb7e0f40b0e70ffb79.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Sector 36 เซกเตอร์ 36 (2024)",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Sector-36-เซกเตอร์-36-2024.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/9feb0bc1510f635b484357fd/9feb0bc1510f635b484357fd.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Honeymoonish (2024)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Honeymoonish-2024.jpg",
+            "url": "",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Maharaja มหาราชา (2024)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/09/Maharaja-มหาราชา-2024-เต็มเรื่อง.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/4580325d55d11b3b8514b94c/4580325d55d11b3b8514b94c.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Harom Hara (2024)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Harom-Hara-2024-1.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/f91b7ea9f436f5d8ce5fab9b/f91b7ea9f436f5d8ce5fab9b.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Chandu Champion (2024) จันทราแชมป์",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Chandu-Champion-2024-จันทราแชมป์.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/5c5dec8f3b02d25e4031ec10/5c5dec8f3b02d25e4031ec10.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "The Goat Life (2024) คนเลี้ยงแพะ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/08/The-Goat-Life-2024-คนเลี้ยงแพะ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/48d09515d6e2c8b09ed6704d/48d09515d6e2c8b09ed6704d.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Salaar Part 1 Ceasefire (2023) ซาลาร์ ภาค 1 สุภาพบุรุษเถื่อน",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Salaar-Part-1-Ceasefire-2023-ซาลาร์-ภาค-1-สุภาพบุรุษเถื่อน.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/bcdd208c46dfce60fe4f0859/bcdd208c46dfce60fe4f0859.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Srikanth (2024) ศรีคานธ์",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Srikanth-2024-ศรีคานธ์-1.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/d8f3020bb579b65cad788b38/d8f3020bb579b65cad788b38.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Phir Aayi Hasseen Dillruba (2024) กุหลาบมรณะ 2",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Phir-Aayi-Hasseen-Dillruba-2024-กุหลาบมรณะ-2.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/6f7888a60f728897f2eacc6d/6f7888a60f728897f2eacc6d.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Mr. & Mrs. Mahi (2024) คู่รักคู่ฝัน",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Mr.-Mrs.-Mahi-2024-คู่รักคู่ฝัน.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/8e7cf36a9b7f55f2713d5acb/8e7cf36a9b7f55f2713d5acb.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Modern Masters (2024) ปรมาจารย์ยุคใหม่ เอสเอส ราจามูลี",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/08/Modern-Masters-2024-ปรมาจารย์ยุคใหม่-เอสเอส-ราจามูลี.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/c93989993ca0d13483224944/c93989993ca0d13483224944.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "House of Ga'a (2024) บัลลังก์แห่งกาอา",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/07/House-of-Gaa-2024-บัลลังก์แห่งกาอา.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/2f6ff181beaebf78733b844d/2f6ff181beaebf78733b844d.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Wild Wild Punjab (2024) ปัญจาบป่วน มันส์ ฮา",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/07/Wild-Wild-Punjab-2024-ปัญจาบป่วน-มันส์-ฮา.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/a1b5240540920a006b4de60e/a1b5240540920a006b4de60e.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Durgamati The Myth (2020)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/07/Durgamati-The-Myth-2020-1.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/0028de6347ed5ff141f712ba/0028de6347ed5ff141f712ba.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Drushyam 2 (2021)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/07/Drushyam-2-2021.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/31182b4283960940917a2b96/31182b4283960940917a2b96.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Bharat (2019) ภารัต",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/07/Bharat-2019-ภารัต-1.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/2917df8a66cc030ff245463b/2917df8a66cc030ff245463b.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Maharaj (2024) มหาราช",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Maharaj-2024-มหาราช.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/75eb7bbc7b9daaad7b61f3d0/75eb7bbc7b9daaad7b61f3d0.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Mallari (2024) มัลลารี ตำนานเชือด โลกสะท้าน",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Mallari-2024-มัลลารี-ตำนานเชือด-โลกสะท้าน.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/28daa41f36d12f4ff213e4ef/28daa41f36d12f4ff213e4ef.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Thar (2022) หมู่บ้านเลือด",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Thar-2022-หมู่บ้านเลือด.jpg",
+            "url": "",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Penduko (2023) เปนดูโก้",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Penduko-2023-เปนดูโก้-1.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/df77d697d2804f71c414bd88/df77d697d2804f71c414bd88.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Miss Shetty Mr Polishetty (2023) เชฟสาวกับนายตลก",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Miss-Shetty-Mr-Polishetty-2023-เชฟสาวกับนายตลก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/3e2fce3444bfe131d4ba1b8a/3e2fce3444bfe131d4ba1b8a.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Bade Miyan Chote Miyan (2024) สองกล้าบ้าระห่ำ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/06/Bade-Miyan-Chote-Miyan-2024-สองกล้าบ้าระห่ำ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/77a529b504d2c792570e57a1/77a529b504d2c792570e57a1.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Gandeevadhari Arjuna (2023) ล้มแผนอหังการ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/09/Gandeevadhari-Arjuna-2023-ล้มแผนอหังการ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/c1d9672e7cef8284455406d3/c1d9672e7cef8284455406d3.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Agak Laen (2024) บ้านสยองแสนสนุก",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Agak-Laen-2024-บ้านสยองแสนสนุก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/9ccd40ade8bbe9f814f32d8b/9ccd40ade8bbe9f814f32d8b.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Crew (2024) นางฟ้าบ้าบิ่น",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Crew-2024-นางฟ้าบ้าบิ่น-1.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/f34cf672d7881f21805acad2/f34cf672d7881f21805acad2.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Karnan (2021)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Karnan-2021.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/16502a6b2556e64ae664c4b8/16502a6b2556e64ae664c4b8.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Section 375 (2019) เซ็กชั่น 375",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Section-375-2019-เซ็กชั่น-375.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/f3d155dbf86e3de1e708eb5e/f3d155dbf86e3de1e708eb5e.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Shivaay (2016) ไต่ระห่ำล่าเดนนรก",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Shivaay-2016-ไต่ระห่ำล่าเดนนรก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/428c2b8e60a7d9a04593000b/428c2b8e60a7d9a04593000b.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "All India Rank (2024)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/05/All-India-Rank-2024.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/c2da81fd823d373b850a1f05/c2da81fd823d373b850a1f05.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Article 370 (2024) มาตรา 370",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Article-370-2024-มาตรา-370-1.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/23490e0f98edc321af7e5e37/23490e0f98edc321af7e5e37.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Elevator Game (2023) ลิฟต์ซ่อนผี",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Elevator-Game-2023-ลิฟต์ซ่อนผี-1.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/184228e446b9762054bbf1de/184228e446b9762054bbf1de.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Master (2021) คุณครูวีรบุรุษ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Master-2021-คุณครูวีรบุรุษ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/e0144eec75be0eaafa402f94/e0144eec75be0eaafa402f94.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Shaitaan (2024) ซาตาน",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/05/Shaitaan-2024-ซาตาน.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/4af293223ac969dc028b3b26/4af293223ac969dc028b3b26.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Gully Boy (2019) กัลลีบอย",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Gully-Boy-2019-กัลลีบอย.jpg",
+            "url": "",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Amar Singh Chamkila (2024) ตำนานเพลง แห่งปัญจาม",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Amar-Singh-Chamkila-2024-ตำนานเพลง-แห่งปัญจาม.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/ec2e7e2ae27f1e1cec5ffbd9/ec2e7e2ae27f1e1cec5ffbd9.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Teri Baaton Mein Aisa Uljha Jiya (2024)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Teri-Baaton-Mein-Aisa-Uljha-Jiya-2024.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/ad11d17faab551cb6f95bfa7/ad11d17faab551cb6f95bfa7.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "777 Charlie (2022) ชาร์ลี มะหมาท้าโลกให้รัก",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/12/777-Charlie-2022-ชาร์ลี-มะหมาท้าโลกให้รัก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/66fa94bafbedd1f2524bda9a/66fa94bafbedd1f2524bda9a.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Guntur Kaaram (2024) เจ้าพ่อกุนตูร์",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Saaho-2019-เกมปล้นนรก-1.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/fad985a1d78de8c72a23f4a0/fad985a1d78de8c72a23f4a0.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Saaho (2019) เกมปล้นนรก",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/04/Saaho-2019-เกมปล้นนรก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/166751423ee0fa5c0676f192/166751423ee0fa5c0676f192.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Ae Watan Mere Watan (2024) อินเดียที่รัก",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Ae-Watan-Mere-Watan-2024-อินเดียที่รัก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/693384e24d3128c89505964e/693384e24d3128c89505964e.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Flamin' Hot (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Flamin-Hot-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/a2c01d54fb1137384265f6be/a2c01d54fb1137384265f6be.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Ghost Stories (2020) เรื่องผี เรื่องวิญญาณ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Ghost-Stories-2020-เรื่องผี-เรื่องวิญญาณ.jpg",
+            "url": "",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Fighter (2024) นักสู้ปีกเหล็ก",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Fighter-2024-นักสู้ปีกเหล็ก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/2d2a6811bca4fd11823fb700/2d2a6811bca4fd11823fb700.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Murder Mubarak (2024) ทีมสืบคดีแปลก",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Murder-Mubarak-2024-ทีมสืบคดีแปลก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/0203e20e19501cb79c3304bc/0203e20e19501cb79c3304bc.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Polis Evo 3 (2023) ตำรวจระห่ำ 3",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/03/Polis-Evo-3-2023-ตำรวจระห่ำ-3.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/5ee13170c5446f1b85e96bb8/5ee13170c5446f1b85e96bb8.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "12th Fail (2023) คนสอบตก",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/03/12th-Fail-2023-คนสอบตก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/fac57b13b0763221477a00c1/fac57b13b0763221477a00c1.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "BHAKSHAK (2024) เปิดหน้ากากความจริง",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/02/BHAKSHAK-2024-เปิดหน้ากากความจริง.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/4e0bf9ccab9ead87ee6d0985/4e0bf9ccab9ead87ee6d0985.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Baaghi 3 (2020) บากิ ยอดคนสุดระห่ำ 3",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Baaghi-3-2020-บากิ-ยอดคนสุดระห่ำ-3.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/86e6e114f0a84380962249d1/86e6e114f0a84380962249d1.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "BAAGHI 2 (2018) บากิ ยอดคนสุดระห่ำ 2",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/04/BAAGHI-2-2018-บากิ-ยอดคนสุดระห่ำ-2.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/2ad683cca00944610b5aef0a/2ad683cca00944610b5aef0a.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Baaghi (2016) บากิ ยอดคนสุดกระห่ำ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Baaghi-2016-บากิ-ยอดคนสุดกระห่ำ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/0d0844aabdccb1e357c358fe/0d0844aabdccb1e357c358fe.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Tiger 3 (2023) เรียกข้าว่าเสือ 3",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Tiger-3-2023-เรียกข้าว่าเสือ-3.jpg",
+            "url": "",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Holy Spider (2022) ฆาตกรรมเภณีเมืองศักดิ์สิทธิ์",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Holy-Spider-2022-ฆาตกรรมเภณีเมืองศักดิ์สิทธิ์.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/dd983e4fa229e5cbb01c9073/dd983e4fa229e5cbb01c9073.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Air Mata di Ujung Sajadah (2023) ลูกของแม่",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Air-Mata-di-Ujung-Sajadah-2023-ลูกของแม่.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/97f74f6b9dee78047633fdbe/97f74f6b9dee78047633fdbe.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Kho Gaye Hum Kahan (2023) เราหลงอยู่ที่ไหน",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Kho-Gaye-Hum-Kahan-2023-เราหลงอยู่ที่ไหน.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/0b0e5a6309f617aee385d430/0b0e5a6309f617aee385d430.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Sajini Shinde Ka Viral Video (2023) เมื่อคุณครูหายไป",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Sajini-Shinde-Ka-Viral-Video-2023-เมื่อคุณครูหายไป.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/321b41fec91ff9291a398931/321b41fec91ff9291a398931.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Malbatt Misi Bakara (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Malbatt-Misi-Bakara-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/903265a4777c9948db727916/903265a4777c9948db727916.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Mast Mein Rehne Ka (2023) คืนป่วนพลิกชีวิต",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Mast-Mein-Rehne-Ka-2023-คืนป่วนพลิกชีวิต.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/df74ab2f9a6398066ef9d917/df74ab2f9a6398066ef9d917.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Walid (2023) วาลิด คุณครูหัวใจทรหด",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Walid-2023-วาลิด-คุณครูหัวใจทรหด.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/3d83beb7f368a13025be8e7c/3d83beb7f368a13025be8e7c.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Ketika Berhenti Di Sini (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Ketika-Berhenti-Di-Sini-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/63a1294116510964f3a98a1d/63a1294116510964f3a98a1d.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Suzzanna Kliwon Friday Night (2023) ซูซันนา กลับมาหลอนให้เฮี้ยน",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Suzzanna-Kliwon-Friday-Night-2023-ซูซันนา-กลับมาหลอนให้เฮี้ยน.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/da0ffb7b251387eaa7af8349/da0ffb7b251387eaa7af8349.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Thank You for Coming (2023) ขอบคุณที่มาฟิน",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Thank-You-for-Coming-2023-ขอบคุณที่มาฟิน.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/b834eed380d965acc094765e/b834eed380d965acc094765e.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Mission Rescue (2023) กู้ภัยเหมืองนรก",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/12/Mission-Rescue-2023-กู้ภัยเหมืองนรก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/09ea990b27ef8a80c6d2e595/09ea990b27ef8a80c6d2e595.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Jawan (2023) จาวัน",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Jawan-2023-จาวัน.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/037f1cbee92963e3ab80c0ce/037f1cbee92963e3ab80c0ce.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Sukhee (2023) ย้อนวันเคยสุข",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Sukhee-2023-ย้อนวันเคยสุข.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/1eee170eaadea67c7e539e8f/1eee170eaadea67c7e539e8f.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Viswasam (2019) วิสวาซัม คุณพ่อสายระห่ำ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Viswasam-2019-วิสวาซัม-คุณพ่อสายระห่ำ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/845414050f5694c091766bc8/845414050f5694c091766bc8.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Tuck Jagadish (2021) แค้นสายเลือดสายสัมพันธ์",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Tuck-Jagadish-2021-แค้นสายเลือดสายสัมพันธ์.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/3909908e7bd75fb282d2e317/3909908e7bd75fb282d2e317.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Thrissur Pooram (2019) ทิสุระ ปุรัม",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Thrissur-Pooram-2019-ทิสุระ-ปุรัม.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/012c7693d5737b3238616308/012c7693d5737b3238616308.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Soorarai Pottru (2020) สุดเวหา ข้าจะไป",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Soorarai-Pottru-2020-สุดเวหา-ข้าจะไป.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/1512ba945f3a1c3789ad0d64/1512ba945f3a1c3789ad0d64.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Pagalpanti (2019)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Pagalpanti-2019.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/835f98b3cd1d9008673dd7fe/835f98b3cd1d9008673dd7fe.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Aaraattu (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Aaraattu-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/1ce1de96566de4d7fd71ab5a/1ce1de96566de4d7fd71ab5a.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Coolie No. 1 (2020) คูลลี่ นัมเบอร์ 1",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Coolie-No.-1-2020-คูลลี่-นัมเบอร์-1.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/4af4602bf4213dfc4fe94592/4af4602bf4213dfc4fe94592.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Imaikkaa Nodigal (2018)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/11/Imaikkaa-Nodigal-2018.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/402f9b1d2f5e00cd001ec0df/402f9b1d2f5e00cd001ec0df.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Bholaa (2023) โภลา",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Bholaa-2023-โภลา.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/9081cf98b96f9054bc6bdd46/9081cf98b96f9054bc6bdd46.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Dream Girl 2 (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/10/Dream-Girl-2-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/7a5e0844ccd6ab9e02ec825d/7a5e0844ccd6ab9e02ec825d.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Jagga Jasoos (2017) แจ็กกา จาซูส์ หนุ่มนักสืบ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/10/Jagga-Jasoos-2017-แจ็กกา-จาซูส์-หนุ่มนักสืบ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/b57edb0fec834bc632234fc8/b57edb0fec834bc632234fc8.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "OMG 2 (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/10/OMG-2-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/1baed59a23420aa99c9e4716/1baed59a23420aa99c9e4716.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "OMG Oh My God! (2012) พระเจ้าช่วย!",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/09/OMG-Oh-My-God-2012-พระเจ้าช่วย.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/45f006f39d2282bb80e763b6/45f006f39d2282bb80e763b6.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "PK (2014) ผู้ชายปาฏิหาริย์",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/09/PK-2014-ผู้ชายปาฏิหาริย์.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/999643ecd3b764cd34dda151507881a9/999643ecd3b764cd34dda151507881a9.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Suspect (2023) ฆ่าสมการลวง",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/09/Suspect-2023-ฆ่าสมการลวง.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/5984fc84db40edb350eeec56/5984fc84db40edb350eeec56.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Bro (2023) โบร!",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/09/Bro-2023-โบร.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/22577d6eae3106823f532c97/22577d6eae3106823f532c97.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Bhola Shankar (2023) แท็กซี่ผู้พิทักษ์",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/09/Bhola-Shankar-2023-แท็กซี่ผู้พิทักษ์.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/6724d93543c94c1753e222fb/6724d93543c94c1753e222fb.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Virata Parvam (2022) ลำนำรักระหว่างรบ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/09/Virata-Parvam-2022-ลำนำรักระหว่างรบ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/94bb1b408001caf7532604eb/94bb1b408001caf7532604eb.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Friday Night Plan (2023) แผนวันศุกร์คืนสนุก",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/09/Friday-Night-Plan-2023-แผนวันศุกร์คืนสนุก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/34322fa07b5541cee4166a02/34322fa07b5541cee4166a02.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Midnight's Children (2012) ปาฏิหาริย์ทารกรัตติกาล",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Midnights-Children-2012-ปาฏิหาริย์ทารกรัตติกาล.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/da01f60aae89e27df2c49a59/da01f60aae89e27df2c49a59.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Raaghu (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Raaghu-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/0d6520636168b1588e155510/0d6520636168b1588e155510.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "The Only Mom (2019) มาร-ดา",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/08/The-Only-Mom-2019-มาร-ดา.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/0234351df95a7772dda028e4/0234351df95a7772dda028e4.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Andhadhun (2018) บทเพลงในโลกมืด",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Andhadhun-2018-บทเพลงในโลกมืด.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/1ebf07ad397f614a790dbe32/1ebf07ad397f614a790dbe32.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Bawaal (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Bawaal-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/74925b63c3e4b44f28fd2786/74925b63c3e4b44f28fd2786.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Adipurush (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Adipurush-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/cfaced1710453dce964943b7/cfaced1710453dce964943b7.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Lootcase (2020) ยกเค้า กระเป๋ามาเฟีย",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/08/Lootcase-2020-ยกเค้า-กระเป๋ามาเฟีย.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/a586d5eaf48a152d5a5bc091/a586d5eaf48a152d5a5bc091.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Veeran (2023) วีรัน ฮีโร่สายฟ้าทมิฬ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/07/Veeran-2023-วีรัน-ฮีโร่สายฟ้าทมิฬ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/7e5686aef56c05d600446630/7e5686aef56c05d600446630.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Shershaah (2021)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/07/Shershaah-2021.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/b791f3c058541a4ed3d308ff/b791f3c058541a4ed3d308ff.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Padmaavat (2018) ปัทมาวัต",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/07/Padmaavat-2018-ปัทมาวัต.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/4825c6fa479b330963ba41a0/4825c6fa479b330963ba41a0.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Ponniyin Selvan Part 2 (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/07/Ponniyin-Selvan-Part-2-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/fbe9f02200de1f4eb5a7898e/fbe9f02200de1f4eb5a7898e.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Afwaah (2023) ข่าวลือ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/07/Afwaah-2023-ข่าวลือ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/5c115b42857f1677869c72fd/5c115b42857f1677869c72fd.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Lust Stories 2 (2023) เรื่องรัก เรื่องใคร่ 2",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Lust-Stories-2-2023-เรื่องรัก-เรื่องใคร่-2.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/b973bfcbd949a561322476b7/b973bfcbd949a561322476b7.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Slumdog Millionaire (2008) คำตอบสุดท้าย...อยู่ที่หัวใจ",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Slumdog-Millionaire-2008-คำตอบสุดท้าย...อยู่ที่หัวใจ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/3a805d5fb1fa27dfb4f6cea3/3a805d5fb1fa27dfb4f6cea3.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Yeh Jawaani Hai Deewani (2013) ทริปซ่าท้าหัวใจ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Yeh-Jawaani-Hai-Deewani-2013-ทริปซ่าท้าหัวใจ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/dc71d515b800e294969ac6d4/dc71d515b800e294969ac6d4.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Gumraah (2023) คนหน้าเหมือน",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/06/Gumraah-2023-คนหน้าเหมือน.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/4552efd0768dbd4587b70171/4552efd0768dbd4587b70171.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Spy in Love (2016)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Spy-in-Love-2016.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/025aa354cf4324493c0c296a/025aa354cf4324493c0c296a.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Kathal A Jackfruit Mystery (2023) คดีวุ่น ขนุนอลเวง",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Kathal-A-Jackfruit-Mystery-2023-คดีวุ่น-ขนุนอลเวง.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/8cbf60114ffa956005407c53/8cbf60114ffa956005407c53.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Juang (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Juang-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/0dfb256256d1bf25a49316f1/0dfb256256d1bf25a49316f1.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Abang Long Fadil 3 (2022) อาบัง ลอง ฟาดิล 3",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Abang-Long-Fadil-3-2022-อาบัง-ลอง-ฟาดิล-3.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/be6d3d596fe672a3badf52e0/be6d3d596fe672a3badf52e0.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Ravanasura (2023) ซ้อนแผนฆ่า",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Ravanasura-2023-ซ้อนแผนฆ่า.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/787926bb3f9af15846f5be36/787926bb3f9af15846f5be36.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Mrs. Chatterjee Vs Norway (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Mrs.-Chatterjee-Vs-Norway-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/e1e5533c4192a8a8f43cf8a1/e1e5533c4192a8a8f43cf8a1.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Brothers (2015) พี่น้องสังเวียนเดือด",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Brothers-2015-พี่น้องสังเวียนเดือด.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/a905521c7c036e13db83e38f/a905521c7c036e13db83e38f.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Pathu Thala (2023) ปาธุ ทาลา",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Pathu-Thala-2023-ปาธุ-ทาลา.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/26b22e1bcdcd8715327bf89d/26b22e1bcdcd8715327bf89d.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Tu Jhoothi Main Makkaar (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Tu-Jhoothi-Main-Makkaar-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/a2c73d2956b6ea313177f508/a2c73d2956b6ea313177f508.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Brother's Day (2019) วันพี่น้อง",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/05/Brothers-Day-2019-วันพี่น้อง.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/4765bbfbc0eac1344890da96/4765bbfbc0eac1344890da96.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Shehzada (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Shehzada-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/58e09feae8577ce2e7c64b49/58e09feae8577ce2e7c64b49.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "It's My Life (2020) ชีวิตเป็นของเรา",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Its-My-Life-2020-ชีวิตเป็นของเรา.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/c3bb43f28c13455d04b7740e/c3bb43f28c13455d04b7740e.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Kadvi Hawa (2017) ฟ้าลิชิตขีวิตต้องสู้",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Kadvi-Hawa-2017-ฟ้าลิชิตขีวิตต้องสู้.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/3926efeeae8f94b781125693/3926efeeae8f94b781125693.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Dil Bechara (2020) ใจบันดาลฝัน",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Dil-Bechara-2020-ใจบันดาลฝัน.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/192a4b197aac1ab37769895e/192a4b197aac1ab37769895e.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Commando (2013) คอมมานโด",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Commando-2013-คอมมานโด.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/96693cab73e6163e1c0eef6e/96693cab73e6163e1c0eef6e.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Faraaz (2023) วีรบุรุษคืนวิกฤติ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Faraaz-2023-วีรบุรุษคืนวิกฤติ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/d1cba2ddd52127f6a513bb40/d1cba2ddd52127f6a513bb40.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Amigos (2023) เพื่อนยาก",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/04/Amigos-2023-เพื่อนยาก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/8a8423da71a306cf28e3271f/8a8423da71a306cf28e3271f.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Chor Nikal Ke Bhaga (2023) ปล้น กลางอากาศ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Chor-Nikal-Ke-Bhaga-2023-ปล้น-กลางอากาศ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/7aff9cf6194733b59385e2ae/7aff9cf6194733b59385e2ae.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Pathaan (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Pathaan-2023-ปาทาน.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/89a6196395e0f911d5e001fe/89a6196395e0f911d5e001fe.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Vaathi (2023) ครู",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Vaathi-2023-ครู.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/9d81271cffbf0a6af5f9ac25/9d81271cffbf0a6af5f9ac25.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "RRR (2022) ภารกิจทริปเปิ้ลอาร์",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/03/RRR-2022-ภารกิจทริปเปิ้ลอาร์.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/07f87517c1c942c213635b6c/07f87517c1c942c213635b6c.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Caught Out (2023) คดีความ คอรัปชั่น คริกเกต",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Caught-Out-2023-คดีความ-คอรัปชั่น-คริกเกต.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/0e34c0e8e503e65882e653ec/0e34c0e8e503e65882e653ec.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Kuttey (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Kuttey-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/c8ad0059fffd351e955c283a/c8ad0059fffd351e955c283a.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Rana Naidu (2023) พยัคฆ์บอมเบย์",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Rana-Naidu-2023-พยัคฆ์บอมเบย์.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/07431dae6b66d6597555e292/07431dae6b66d6597555e292.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "The Nightingale of Bursa (2023)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/03/The-Nightingale-of-Bursa-2023.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/7ebcda0ad615179ff9e733df/7ebcda0ad615179ff9e733df.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Thunivu (2023) ปล้นอหังการ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Thunivu-2023-ปล้นอหังการ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/aaf186e98cd0a40c72f90000/aaf186e98cd0a40c72f90000.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Kabhi Khushi Kabhie Gham (2001) ฟ้ามิอาจกั้นรัก",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Kabhi-Khushi-Kabhie-Gham-2001-ฟ้ามิอาจกั้นรัก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/506f2cbcac0eae73c42558ef/506f2cbcac0eae73c42558ef.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Nanpakal Nerathu Mayakkam (2023) ดุจดั่งฝันตอนกลางวัน",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Nanpakal-Nerathu-Mayakkam-2023-ดุจดั่งฝันตอนกลางวัน.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/277c7a23ea10b8e891ab7040/277c7a23ea10b8e891ab7040.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Waltair Veerayya (2023) ข้ามทะเลไปจับโจร",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/03/Waltair-Veerayya-2023-ข้ามทะเลไปจับโจร.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/65be20078ec77ca82c952213/65be20078ec77ca82c952213.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Dangal (2016)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/02/Dangal-2016.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/6e69ed5b0c9bdbd68dd6e2f4/6e69ed5b0c9bdbd68dd6e2f4.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Ten Little Mistresses (2023) สิบภรรยากับฆาตกรรมอลเวง",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/02/Ten-Little-Mistresses-2023-สิบภรรยากับฆาตกรรมอลเวง.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/01050dbbc049b96dcb3193fb/01050dbbc049b96dcb3193fb.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Cirkus (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/02/Cirkus-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/5db797b5f3b7247771271c61/5db797b5f3b7247771271c61.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Class (2023) คลาส",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/02/Class-2023-คลาส.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/d73b371c483c7783c4227522/d73b371c483c7783c4227522.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "An Action Hero (2022) แอ็คชั่น ฮีโร่",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/01/An-Action-Hero-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/876148a247aedb0a2f6a68e6/876148a247aedb0a2f6a68e6.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Raangi (2022) เหยื่อ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Raangi-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/2fd6b7ffe9c5090da2635458/2fd6b7ffe9c5090da2635458.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Dhamaka 2 (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Dhamaka-2-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/00ffbfdcc3bb753cd9c7bc06/00ffbfdcc3bb753cd9c7bc06.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Dhamaka (2021)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Dhamaka-2021.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/2aa7ba79bef21b7cdac7b62c/2aa7ba79bef21b7cdac7b62c.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Kaapa (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Kaapa-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/043e5becfb014e1ddec29dea/043e5becfb014e1ddec29dea.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Thai Massage (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Thai-Massage-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/c3895bdd33639c250652afbb/c3895bdd33639c250652afbb.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Gatta Kusthi (2022) หนุ่มหมัดหนักหารัก",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2023/01/Gatta-Kusthi-2022-หนุ่มหมัดหนักหารัก.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/d0fb3d1f1a9a26502476a571/d0fb3d1f1a9a26502476a571.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Double XL (2022) ดับเบิล เอ็กซ์แอล",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/12/Double-XL-2022-ดับเบิล-เอ็กซ์แอล.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/79ce706c6481a20a00cc831e/79ce706c6481a20a00cc831e.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Yeh Saali Aashiqui (2019) ฝันรัก ฝันร้าย",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/12/Yeh-Saali-Aashiqui-2019.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/1d097281f2f433aa79de7327/1d097281f2f433aa79de7327.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Kalaga Thalaivan (2022) ขบถองค์กรเถื่อน",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/12/Kalaga-Thalaivan-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/3805a0dab987522114ddcd24/3805a0dab987522114ddcd24.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Tara vs Bilal (2022) รักปะทะใจ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/12/Tara-vs-Bilal-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/3043077db7ad7956b140a047/3043077db7ad7956b140a047.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Codename Tiranga (2022) ปฏิบัติการเดือดทีรังกา",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/12/Codename-Tiranga-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/97017650d8bfd8158cf2c345/97017650d8bfd8158cf2c345.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Goodbye (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/12/Goodbye-2022.jpg",
+            "url": "",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Padavettu (2022) กบฏ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/12/Padavettu-2022-กบฏ.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/2c1d6418962b76386cc417e5/2c1d6418962b76386cc417e5.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Khakee The Bhar Chapter (2022) ตำรวจ บันทึกจากพิหาร",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Khakee-The-Bhar-Chapter-2022-ตำรวจ-บันทึกจากพิหาร.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/a43cc723f7d0142f5f6e3216/a43cc723f7d0142f5f6e3216.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Happy Birthday (2022) สุขสันต์วันเกิด",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Happy-Birthday-2022-สุขสันต์วันเกิด.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/01adb2052c550730025b3681/01adb2052c550730025b3681.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Deception Round D Corner (2022) มายาอันตราย",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Deception-Round-D-Corner-Dhokha-2022-มายาอันตราย-1.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/42dfe0fd3301cf40a2fdb36e/42dfe0fd3301cf40a2fdb36e.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Godfather (2022) ก็อตฟาเธอร์",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Godfather-2022-ก็อตฟาเธอร์.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/ca91e848093da6b50429ed58/ca91e848093da6b50429ed58.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Brahmastra Part One Shiva (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Brahmastra-Part-One-Shiva-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/7bf80b66c8fd2b291f5a12e1/7bf80b66c8fd2b291f5a12e1.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Marakkar Lion of the Arabian Sea (2021)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/11/Marakkar-Lion-of-the-Arabian-Sea-2021.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/eced492ad53b3a510769522d/eced492ad53b3a510769522d.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Ammu (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/10/Ammu-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/eb29eee3c322989b188178ff/eb29eee3c322989b188178ff.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Ranga Ranga Vaibhavanga (2022) ทั้งเก๊ก ทั้งกั๊ก แต่ก็รักนะ",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/10/Ranga-Ranga-Vaibhavanga-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/7770a141fbcf0715e09b3b5a/7770a141fbcf0715e09b3b5a.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Oru Thekkan Thallu Case (2022) อินเดียใต้ตะลุมบอน",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/10/Oru-Thekkan-Thallu-Case-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/2629ff40297d96a26c4892b1/2629ff40297d96a26c4892b1.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Plan A Plan B (2022) แผนหนึ่ง แผนสอง",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/10/Plan-A-Plan-B-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/920bb2e6da5585092b2dd52a/920bb2e6da5585092b2dd52a.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Ghostbuser Misteri Desa Penari (2021)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Ghostbuser-Misteri-Desa-Penari-2021.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/30569cd997a6073b7038dd6a/30569cd997a6073b7038dd6a.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "House of Gucci (2021) เฮาส์ ออฟ กุชชี่",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/House-of-Gucci-2021.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/d268dcd143457dff4ce891bc9f133e52/d268dcd143457dff4ce891bc9f133e52.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Sharmaji Namkeen (2022)",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Sharmaji-Namkeen-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/13ba35d32b391fb231c11738/13ba35d32b391fb231c11738.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Sita Ramam (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Sita-Ramam-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/69277c2a89bacbde886fad05/69277c2a89bacbde886fad05.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Jogi (2022) สู้เพื่อศรัทธา",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Jogi-2022-สู้เพื่อศรัทธา.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/7ad27e876e805b12f8e68ba7/7ad27e876e805b12f8e68ba7.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Sardar Udham (2021) ภารกิจสังหาร แค้นไม่มีวันลืม",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Sardar-Udham-2021.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/92627295bbb0af38cad2f7fd/92627295bbb0af38cad2f7fd.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Sarileru Neekevvaru (2020) แกร่งไร้เทียมทาน",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Sarileru-Neekevvaru-2020.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/3d1d6b75d716207720b1031a/3d1d6b75d716207720b1031a.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Sher Shivraj (2022)",
+            "info": "เสียง : ไทย ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Sher-Shivraj-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/bc0bf58a95d9e6b0346ba43e0a76ea07/bc0bf58a95d9e6b0346ba43e0a76ea07.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Mahaan (2022) มหายาน ชายผู้ยิ่งใหญ่",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Mahaan-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/da400516ab4d79a276d175aeba149de2/da400516ab4d79a276d175aeba149de2.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Saani Kaayidham (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Saani-Kaayidham-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/9ba300af2c179694777f3c1d87146083/9ba300af2c179694777f3c1d87146083.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Bachchhan Paandey (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Bachchhan-Paandey-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/42c897c18f60786778417d2c/42c897c18f60786778417d2c.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Acharya (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Acharya-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/08ffd05a87656e7a3296cb3f/08ffd05a87656e7a3296cb3f.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Heropanti 2 (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Heropanti-2-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/4c882f9698872b0632c5e259/4c882f9698872b0632c5e259.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Bell Bottom (2021)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Bell-Bottom-2021.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/10fd2189077d67674c2a6356/10fd2189077d67674c2a6356.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+        {
+            "name": "Man Of The Match (2022)",
+            "info": "เสียง : Sound Track ",
+            "image": "https://www.24-hd.com/wp-content/uploads/2022/09/Man-Of-The-Match-2022.jpg",
+            "url": "https://main.24playerhd.com/newplaylist/a9eb6a753a86116e3bb06789/a9eb6a753a86116e3bb06789.m3u8",
+            "referer": "https://www.24-hd.com/"
+        },
+    ]
+}
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>ผู้เฒ่าพเนจร</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="ผู้เฒ่าพเนจร"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.dropbox.com/scl/fi/vbyxgw2rrqcdme8t4ch08/.png?rlkey=y9eikxi47djf513c20eh6kjbz&dl=1"></h2>
+</center>
+</body>
+</html>

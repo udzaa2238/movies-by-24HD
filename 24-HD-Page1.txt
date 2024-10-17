@@ -1,0 +1,69 @@
+{
+"name": "24-HD","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+"author": "Update 2024",
+"url": "https://drive.google.com/uc?id=1HHBM_V56tUVl6ZvceCnzPVa5o0-Nw7SM",
+"groups": [
+	
+  
+		{"name":" หนังใหม่ 2024 ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1GGXppLaB-mRiJOvRdliIQTLWrWDKuKNQ","import": false},  
+ 
+		{"name":" หนังใหม่ 2023 ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1GJvd2F97mVv-3BHXGSyglodRyoGjRBQf","import": false},  
+
+		{"name":" หนัง Netflix ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1H-moyMlY0191xUEJWMhJvVW77qM8KL2q","import": false},  
+	
+		{"name":" หนัง Marvel Universe ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1H5VmI9HKIBhSGaJYvztO4HuZTXDrrNgx","import": false},  
+	
+		{"name":" หนัง DC Universe ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1H8m7x6xiNgOLzU3ufg9N0GWUrVq3J4a5","import": false},  
+	
+		{"name":" หนังภาคต่อ ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1GLDqkFn6EXdFy0Qw3BYGs36S0VTeWAxe","import": false},  
+	
+		{"name":" หนังซอมบี้ ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1GWD8Oj_dqkINFgQNwozkOaIH5tks_1jh","import": false},  
+	
+		{"name":" หนังฝรั่ง ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1GPGZhe5TCyqxIHAARYpgj6YlhgaQZfj8","import": false},  
+	
+		{"name":" หนังจีน ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1Ge_R0TWqstjfd3kWNFRkSqDs6nISRaQC","import": false},  
+	
+		{"name":" หนังเกาหลี ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1Gk2q2WhVwXHRSXAPvp--F2u1Wx5EmjP_","import": false},  
+	
+		{"name":" หนังญี่ปุ่น ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1GUf8O9eLURt7o8l3bnth_p244Thvy1yj","import": false},  
+	
+		{"name":" หนังอินเดีย ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1GBexCNYI4WRZiEpzy184LMjggQoUjtaK","import": false},  
+	
+		{"name":" หนังไทย ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1GQGGIn1N1tMmct-gYqAgL-6BYJAM1Ehj","import": false},  
+	
+		{"name":" หนังการ์ตูน ","image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://drive.google.com/uc?id=1GlVkGWp03gz3lQfWHcGQDhRZsbqdu23W","import": false},  
+
+	
+]
+}
+
+
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>ผู้เฒ่าพเนจร</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="ผู้เฒ่าพเนจร"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.dropbox.com/scl/fi/vbyxgw2rrqcdme8t4ch08/.png?rlkey=y9eikxi47djf513c20eh6kjbz&dl=1"></h2>
+</center>
+</body>
+</html>
